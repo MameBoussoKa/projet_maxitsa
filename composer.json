@@ -1,0 +1,17 @@
+{
+    "name": "mame-diarra-bousso/projet_maxitsa",
+    "description": "Application de gestion pour MaxITSA",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MameDiarraBousso\\ProjetMaxitsa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mame Diarra Bousso",
+            "email": "kamamediarra2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
